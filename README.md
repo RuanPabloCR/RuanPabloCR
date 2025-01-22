@@ -1,5 +1,11 @@
-## Hi there 👋
+### Hello everyone! My name is Ruan 👋
 
+
+![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanPabloCR&show_icons=true&theme=radical)
+
+Technologies that i use⚡
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanPabloCR&layout=compact)
 <!--
 **RuanPabloCR/RuanPabloCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
