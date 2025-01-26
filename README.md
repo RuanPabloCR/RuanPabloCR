@@ -1,5 +1,5 @@
 ### Hello everyone! My name is Ruan 👋
-
+I study computer science and I'm learning ASP.NET and Angular.
 
 ![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanPabloCR&show_icons=true&theme=radical)
 
