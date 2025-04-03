@@ -1,7 +1,6 @@
 ### Hello everyone! My name is Ruan 👋
 I study computer science and I'm learning ASP.NET, R and Python.
-
-![Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuanPabloCR&show_icons=true&theme=radical)
+I am looking for an internship in software development or data analysis.
 
 Technologies that i use⚡
 
