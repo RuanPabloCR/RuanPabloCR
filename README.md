@@ -1,6 +1,6 @@
 ### Hello everyone! My name is Ruan 👋
-I study computer science and I'm learning ASP.NET, R and Python.
-I am looking for an internship in software development or data analysis.
+Skilled in ASP.NET Core development and the creation of RESTful APIs. My focus is on writing clean, maintainable code, supported by comprehensive testing practices.
+I am looking for a challenging role where I can grow as a developer.
 
 Technologies that i use⚡
 
